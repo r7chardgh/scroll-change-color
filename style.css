@@ -1,0 +1,41 @@
+body,html{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.cover{
+    display: flex;
+    justify-content: center;
+    padding: 3em;
+}
+
+.footer{
+    
+}
+
+.color-bg{
+    background: -webkit-radial-gradient();
+}
+
+section.container{
+    min-height:100vh;
+    padding: 1em 3em;
+    margin: auto;
+    border-bottom: 1px solid black;
+}
+
+.color-b1{
+    --bg:#fafd5d;
+}
+.color-b2{
+    --bg:#c7b9ff
+}
+.color-b3{
+    --bg:#0fa958
+}
+.color-b4{
+    --bg:#e2e2e2
+}
+.color-b5{
+    --bg:#80caff
+}
