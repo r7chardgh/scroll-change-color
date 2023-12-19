@@ -13,3 +13,4 @@ https://r7chardgh.github.io/scroll-change-color/
 This idead was from the homepage (https://www.figma.com/) of figma. I think it is interesting. so I make it.
 
 ## Comparison
+![](https://giphy.com/embed/wbwL7gLO0Sb133az95)
